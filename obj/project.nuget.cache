@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNHH2D7XGCE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RNET-Emir\\source\\repos\\NDP_Odev\\NDP_Odev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RNET-Emir\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\RNET-Emir\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
